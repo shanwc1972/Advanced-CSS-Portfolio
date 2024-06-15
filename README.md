@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Website can be reached by https://shanwc1972.github.io/advanced-css-portfolio.
+Website can be reached by [https://shanwc1972.github.io/advanced-css-portfolio.](https://shanwc1972.github.io/Advanced-CSS-Portfolio/)
 
 The following image shows the web application's appearance and functionality:
 
