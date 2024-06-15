@@ -16,7 +16,8 @@ Website can be reached by https://shanwc1972.github.io/advanced-css-portfolio.
 The following image shows the web application's appearance and functionality:
 
 
-![A webpage titled "Portfolio for Warren Shan" features a navigation menu in the header, various sections and more.](https://https://shanwc1972.github.io/advanced-css-portfolio/assets/images/advanced-css-portfolio-screenshot.png)
+![A webpage titled "Portfolio for Warren Shan" features a navigation menu in the header, various sections and more.](https://github.com/shanwc1972/Advanced-CSS-Portfolio/assets/166612646/98de6a86-4fd2-4196-a4cc-f71e2dfb4a2b)
+
 
 The website includes three links called About Me, Work and Contact Me to allow the user to quickly jump to those sections on the page. 
 
