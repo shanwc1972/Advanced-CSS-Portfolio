@@ -128,7 +128,7 @@ main {
 }
 
 #contact-me nav{
-  margin-left: 50%;
+  justify-content: space-evenly;
 }
 
 /*Setup footer to use a background image */
